@@ -1,2 +1,2 @@
-# portfolio.reyarya.github.io
+# portfolioreyarya.github.io
 Website Portfolio
